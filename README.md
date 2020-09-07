@@ -1,10 +1,4 @@
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=blueviolet)
-
-## &#x1f4c8; GitHub Stats
+[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](https://github.com/ogxd/project-curator)
 
 ![ogxd's GitHub Stats][20]
 
