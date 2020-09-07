@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](https://github.com/ogxd/project-curator)
-
 ![ogxd's GitHub Stats][20]
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
